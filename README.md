@@ -1,7 +1,5 @@
 ### Hi there 👋
-arai pai kor dai
-![captkim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=captkim&theme=vue-dark&hide_border=true)
-<!--
+![captkimz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=captkimz&theme=merko&hide_border=true)
 **CaptKimz/CaptKimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
